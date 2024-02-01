@@ -7,7 +7,7 @@ C# Geliştiricisi
 * 🌍 Türkiye'de yaşıyorum
 * 🖥️ Portföyümü LinkedIn'de [görün](http://www.linkedin.com/in/tunahancengiz)[](http://www.linkedin.com/in/tunahancengiz)
 * [✉️ Bana tunahancengizbusiness@gmail.com](mailto:tunahancengizbusiness@gmail.com) adresinden ulaşabilirsiniz.[](mailto:tunahancengizbusiness@gmail.com)
-* 🧠 Google Oyun Ve Uygulama Akademisi Bursiyeri
+* 🧠 Google Oyun Ve Uygulama Akademi Bursiyeri
 
 ### Skills
 

@@ -12,9 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tunadeveloper&theme=radical&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tunadeveloper&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-contributor-stats.vercel.app/api?username=tunadeveloper&limit=5&theme=radical&combine_all_yearly_contributions=true)

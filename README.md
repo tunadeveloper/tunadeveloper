@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hakkımda:
+#  Hakkımda
 ⚡ I am training on Full Stack .NET and trying to become a professional.<br>🕵🏼‍♂️ I am working like crazy!
 <br>
 
@@ -22,8 +22,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio)](https://skillicons.dev)
 
-
-# 📊 İstatistikler:
+<br><br>
+#  İstatistikler
 ![](https://github-readme-stats.vercel.app/api?username=tunadeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tunadeveloper&theme=radical&hide_border=false)<br/>
 

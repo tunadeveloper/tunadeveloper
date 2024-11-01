@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hakkımda:
 ⚡ I am training on Full Stack .NET and trying to become a professional.<br>🕵🏼‍♂️ I am working like crazy!
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,angular,dotnet)](https://skillicons.dev)

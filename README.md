@@ -1,9 +1,10 @@
 <div align="center">
-https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Merhaba+Ben+Tunahan+👋;Full+Stack+.Net+Core+Geliştiricisiyim!;" />
 </h1>
 
+![software](https://github.com/user-attachments/assets/32634fbf-b87a-49bd-82ae-4b2558a9cf57)
 #  Hakkımda
 ⚡ I am training on Full Stack .NET and trying to become a professional.<br>🕵🏼‍♂️ I am working like crazy!
 <br>

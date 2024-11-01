@@ -3,13 +3,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,angular,dotnet)](https://skillicons.dev)
 
----
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis,postgres)](https://skillicons.dev)
 
----
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,rabbitmq,redis,elasticsearch,kubernetes)](https://skillicons.dev)
 
----
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio)](https://skillicons.dev)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cengizdeveloper) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz) 

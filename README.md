@@ -20,8 +20,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio)](https://skillicons.dev)
 
-## 🌐 Sosyal Medya Hesaplarım:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cengizdeveloper) 
 
 # 📊 İstatistikler:
 ![](https://github-readme-stats.vercel.app/api?username=tunadeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>

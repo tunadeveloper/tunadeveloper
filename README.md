@@ -1,5 +1,7 @@
 # 💫 Hakkımda:
 ⚡ I am training on Full Stack .NET and trying to become a professional.<br>🕵🏼‍♂️ I am working like crazy!
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz) 
 
 <br>

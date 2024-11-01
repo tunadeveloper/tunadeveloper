@@ -8,11 +8,11 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,angular,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis,postgres)](https://skillicons.dev)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,angular,dotnet)](https://skillicons.dev)
 
 <br>
 

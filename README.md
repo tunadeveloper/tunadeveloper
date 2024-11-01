@@ -2,17 +2,6 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Merhaba+Ben+Tunahan+👋;Full+Stack+.Net+Core+Geliştiricisiyim!;" />
-<br>
-    <img src="https://github.com/user-attachments/assets/32634fbf-b87a-49bd-82ae-4b2558a9cf57" alt="software" width="200"/>
-</h1>
-
-
-
-#  Hakkımda
-⚡ I am training on Full Stack .NET and trying to become a professional.<br>🕵🏼‍♂️ I am working like crazy!
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz) 
 
 <br>
 
@@ -30,7 +19,21 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio)](https://skillicons.dev)
 
-<br><br>
+<br>
+    <img src="https://github.com/user-attachments/assets/32634fbf-b87a-49bd-82ae-4b2558a9cf57" alt="software" width="200"/>
+</h1>
+
+
+
+#  Hakkımda
+⚡ I am training on Full Stack .NET and trying to become a professional.<br>🕵🏼‍♂️ I am working like crazy!
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz) 
+
+<br>
+    
+
 #  İstatistikler
 ![](https://github-readme-stats.vercel.app/api?username=tunadeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <br>

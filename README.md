@@ -1,5 +1,8 @@
 # 💫 Hakkımda:
 ⚡ I am training on Full Stack .NET and trying to become a professional.<br>🕵🏼‍♂️ I am working like crazy!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz) 
+
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,angular,dotnet)](https://skillicons.dev)
 
@@ -16,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio)](https://skillicons.dev)
 
 ## 🌐 Sosyal Medya Hesaplarım:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cengizdeveloper) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cengizdeveloper) 
 
 # 📊 İstatistikler:
 ![](https://github-readme-stats.vercel.app/api?username=tunadeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>

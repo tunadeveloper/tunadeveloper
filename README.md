@@ -9,7 +9,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,rabbitmq,redis,elasticsearch,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,rabbitmq,elasticsearch,kubernetes)](https://skillicons.dev)
 
 <br>
 

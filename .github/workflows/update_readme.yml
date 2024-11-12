@@ -17,7 +17,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.MY_SECRET_KEYS }}
         run: |
-          # Gist API'yi kullanarak gizli veriyi çekiyoruz
           curl -H "Authorization: token $GITHUB_TOKEN" \
             https://api.github.com/gists/d77e95668bd2768a09a40c3cff5cc1ba \
             | jq -r '.files["my_hidden_content.txt"].content' >> README.md

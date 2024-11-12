@@ -9,15 +9,15 @@
 
 <br>
 
-[![Tech](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,rabbitmq,elasticsearch,kubernetes,postman)](https://skillicons.dev)
+[![Tech](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,rabbitmq,elasticsearch,kubernetes,postman)](https://www.linkedin.com/in/tunahancengiz/)
 
 <br>
 
-[![Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,sqlserver,redis,postgres)](https://skillicons.dev)
+[![Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,sqlserver,redis,postgres)](https://www.linkedin.com/in/tunahancengiz/)
 
 <br>
 
-[![Tool](https://go-skill-icons.vercel.app/api/icons?i=github,git,vscode,visualstudio)](https://skillicons.dev)
+[![Tool](https://go-skill-icons.vercel.app/api/icons?i=github,git,vscode,visualstudio)](https://www.linkedin.com/in/tunahancengiz/)
 
 <br>
     <img src="https://github.com/user-attachments/assets/32634fbf-b87a-49bd-82ae-4b2558a9cf57" alt="software" width="200"/>

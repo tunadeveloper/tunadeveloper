@@ -5,19 +5,19 @@
 </h1>
 <br>
 
-[![Language](https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,angular,dotnet)](https://skillicons.dev)
+[![Language](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,cs,angular,dotnet)](https://skillicons.dev)
 
 <br>
 
-[![Tech](https://skillicons.dev/icons?i=aws,docker,rabbitmq,elasticsearch,kubernetes,postman)](https://skillicons.dev)
+[![Tech](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,rabbitmq,elasticsearch,kubernetes,postman)](https://skillicons.dev)
 
 <br>
 
-[![Database](https://skillicons.dev/icons?i=mysql,mongodb,sqlserver,redis,postgres)](https://skillicons.dev)
+[![Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,sqlserver,redis,postgres)](https://skillicons.dev)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio)](https://skillicons.dev)
+[![Tool](https://go-skill-icons.vercel.app/api/icons?i=github,git,vscode,visualstudio)](https://skillicons.dev)
 
 <br>
     <img src="https://github.com/user-attachments/assets/32634fbf-b87a-49bd-82ae-4b2558a9cf57" alt="software" width="200"/>

@@ -43,7 +43,7 @@
 
 
 
-###
+
 
 <img src="https://tunadeveloper.github.io/tunadeveloper/snake.svg" alt="Snake animation" />
 

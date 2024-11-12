@@ -5,7 +5,7 @@
 </h1>
 <br>
 
-[![Language](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,cs,angular,dotnet)](https://skillicons.dev)
+[![Language](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,cs,angular,dotnet)](https://www.linkedin.com/in/tunahancengiz/)
 
 <br>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-![gif2](https://github.com/user-attachments/assets/20e020e7-6bce-407d-9009-d0560df87895)
+ <img src="https://github.com/user-attachments/assets/20e020e7-6bce-407d-9009-d0560df87895" alt="software" height="200"/>
 
 <br>
     

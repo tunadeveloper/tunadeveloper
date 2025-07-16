@@ -5,11 +5,11 @@
 </h1>
 <br>
 
-[![Language](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,cs,angular,dotnet)](https://www.linkedin.com/in/tunahancengiz/)
+[![Language](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,jquery,react,angular,cs,dotnet)](https://www.linkedin.com/in/tunahancengiz/)
 
 <br>
 
-[![Tech](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,rabbitmq,elasticsearch,kubernetes,postman)](https://www.linkedin.com/in/tunahancengiz/)
+[![Tech](https://go-skill-icons.vercel.app/api/icons?i=azure,docker,rabbitmq,elasticsearch,kubernetes,postman)](https://www.linkedin.com/in/tunahancengiz/)
 
 <br>
 

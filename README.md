@@ -25,27 +25,44 @@
 
 
 
-#  Hakkımda
-⚡ I am training on Full Stack .NET and trying to become a professional.<br>🕵🏼‍♂️ I am working like crazy!
-<br>
+# 📌 Hakkımda  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz) 
+Ben Tunahan, Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için projeler üretiyorum. Bu süreçte hem **backend** hem de **frontend** tarafında farklı projeler geliştirdim. **SOLID** prensiplerine uygun, **temiz** ve **güvenli** kod yazmaya odaklanıyorum. Özellikle .NET Core ekosistemi sayesinde farklı sektörlerde kullanılabilecek kurumsal uygulamalar geliştirdim. Kendimi sürekli geliştirmeye, yeni teknolojileri öğrenip projelerime entegre etmeye ve deneyimlerimi bir adım öteye taşımaya önem veriyorum.
 
-<br>
-    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz)  
 
-#  İstatistikler
-![](https://github-readme-stats.vercel.app/api?username=tunadeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tunadeveloper&theme=radical&hide_border=false)<br/>
-<br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Uzmanlık Alanlarım  
 
-
-
-###
+<table>
+  <tr>
+    <td align="left">🎨 <b>Frontend:</b></td>
+    <td align="left">HTML · CSS · Bootstrap · JavaScript · React · Angular</td>
+  </tr>
+  <tr>
+    <td align="left">💻 <b>Backend:</b></td>
+    <td align="left">
+      ASP.NET Core (3.1, 5.0, 6.0, 7.0, 8.0, 9.0) · ASP.NET Core Web API · Entity Framework Core · Dapper · JWT · AutoMapper · Fluent Validation · Identity · Ocelot · ADO.NET · LINQ
+    </td>
+  </tr>
+  <tr>
+    <td align="left">🗄️ <b>Veritabanları:</b></td>
+    <td align="left">MSSQL · PostgreSQL · MongoDB · Redis</td>
+  </tr>
+  <tr>
+    <td align="left">🏗️ <b>Mimari & Yaklaşımlar:</b></td>
+    <td align="left">N-Layer Architecture · Monolithic Architecture · Microservice · CQRS · Code First · Db First</td>
+  </tr>
+  <tr>
+    <td align="left">📐 <b>Design Pattern:</b></td>
+    <td align="left">Repository Design Pattern · Unit of Work Pattern · Mediator · Chain of Responsibility</td>
+  </tr>
+  <tr>
+    <td align="left">🛠️ <b>Araçlar & Teknolojiler:</b></td>
+    <td align="left">Docker · Postman · Swagger · RapidAPI · DevExpress · Windows Forms · Visual Studio · VS Code</td>
+  </tr>
+</table>
 
 <img src="https://tunadeveloper.github.io/tunadeveloper/snake.svg" alt="Snake animation" />
 
-
+    
 </div>

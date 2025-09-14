@@ -5,7 +5,7 @@
 </h1>
 <br>
 
-Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için projeler üretiyorum. Bu süreçte hem **backend** hem de **frontend** tarafında farklı projeler geliştirdim. **SOLID** prensiplerine uygun, **temiz** ve **güvenli** kod yazmaya odaklanıyorum. Özellikle .NET Core ekosistemi sayesinde farklı sektörlerde kullanılabilecek kurumsal uygulamalar geliştirdim. Kendimi sürekli geliştirmeye, yeni teknolojileri öğrenip projelerime entegre etmeye ve deneyimlerimi bir adım öteye taşımaya önem veriyorum.
+Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için hem **backend** hem de **frontend** tarafında farklı projeler geliştirdim. **SOLID** prensiplerine uygun, **temiz** ve **güvenli** kod yazmaya odaklanıyorum. Özellikle .NET Core ekosistemi sayesinde farklı sektörlerde kullanılabilecek kurumsal uygulamalar geliştirdim. Kendimi sürekli geliştirmeye, yeni teknolojileri öğrenip projelerime entegre etmeye ve deneyimlerimi bir adım öteye taşımaya önem veriyorum.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz)  
 

@@ -5,6 +5,12 @@
 </h1>
 <br>
 
+Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için projeler üretiyorum. Bu süreçte hem **backend** hem de **frontend** tarafında farklı projeler geliştirdim. **SOLID** prensiplerine uygun, **temiz** ve **güvenli** kod yazmaya odaklanıyorum. Özellikle .NET Core ekosistemi sayesinde farklı sektörlerde kullanılabilecek kurumsal uygulamalar geliştirdim. Kendimi sürekli geliştirmeye, yeni teknolojileri öğrenip projelerime entegre etmeye ve deneyimlerimi bir adım öteye taşımaya önem veriyorum.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz)  
+
+<br>
+
 [![Language](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,jquery,react,angular,cs,dotnet)](https://www.linkedin.com/in/tunahancengiz/)
 
 <br>
@@ -22,14 +28,6 @@
 <br>
     <img src="https://github.com/user-attachments/assets/32634fbf-b87a-49bd-82ae-4b2558a9cf57" alt="software" width="200"/>
 
-
-
-
-# 📌 Hakkımda  
-
-Ben Tunahan, Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için projeler üretiyorum. Bu süreçte hem **backend** hem de **frontend** tarafında farklı projeler geliştirdim. **SOLID** prensiplerine uygun, **temiz** ve **güvenli** kod yazmaya odaklanıyorum. Özellikle .NET Core ekosistemi sayesinde farklı sektörlerde kullanılabilecek kurumsal uygulamalar geliştirdim. Kendimi sürekli geliştirmeye, yeni teknolojileri öğrenip projelerime entegre etmeye ve deneyimlerimi bir adım öteye taşımaya önem veriyorum.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz)  
 
 ## 🛠️ Uzmanlık Alanlarım  
 

@@ -60,5 +60,6 @@ Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için hem *
 
 <img src="https://tunadeveloper.github.io/tunadeveloper/snake.svg" alt="Snake animation" />
 
-    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+ 
 </div>

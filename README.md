@@ -1,8 +1,6 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Tunahan%20Cengiz&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20.NET%20Core%20Developer&descAlignY=55&descSize=18" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Merhaba+Ben+Tunahan+👋;Full+Stack+.NET+Core+Geliştiricisiyim!;" />
-</h1>
 <br>
 
 Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için hem **backend** hem de **frontend** tarafında birçok proje geliştirdim. **SOLID** prensiplerine uygun, **temiz** ve **güvenli** kod yazmaya odaklanıyorum. Özellikle .NET Core ekosistemi sayesinde farklı sektörlerde kullanılabilecek kurumsal uygulamalar geliştirdim. Kendimi sürekli geliştirmeye, yeni teknolojileri öğrenip projelerime entegre etmeye ve deneyimlerimi bir adım öne taşımaya önem veriyorum.

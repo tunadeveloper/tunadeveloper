@@ -3,8 +3,8 @@
 
 <br>
 
-![Toplam Proje](https://img.shields.io/badge/Tamamlanan%20Proje-18%2B-purple?style=for-the-badge&logo=github&logoColor=white)
-![Tüketilen Kahve](https://img.shields.io/badge/Tüketilen%20Kahve-280%2B-orange?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Toplam Proje](https://img.shields.io/badge/Tamamlanan%20Proe-18%2B-purple?style=for-the-badge&logo=github&logoColor=white)
+![Tüketilen Kahve](https://img.shields.io/badge/Tüketİlen%20Kahve-280%2B-orange?style=for-the-badge&logo=coffeescript&logoColor=white)
 
 
 Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için hem **backend** hem de **frontend** tarafında birçok proje geliştirdim. **SOLID** prensiplerine uygun, **temiz** ve **güvenli** kod yazmaya odaklanıyorum. Özellikle .NET Core ekosistemi sayesinde farklı sektörlerde kullanılabilecek kurumsal uygulamalar geliştirdim. Kendimi sürekli geliştirmeye, yeni teknolojileri öğrenip projelerime entegre etmeye ve deneyimlerimi daha ileriye taşımaya önem veriyorum.

@@ -3,7 +3,7 @@
 
 <br>
 
-![Toplam Proje](https://img.shields.io/badge/Alanımda%20Toplam%20Proje-18%2B-purple?style=for-the-badge&logo=github&logoColor=white)
+![Toplam Proje](https://img.shields.io/badge/Tamamlanan%20Proje-18%2B-purple?style=for-the-badge&logo=github&logoColor=white)
 ![Tüketilen Kahve](https://img.shields.io/badge/Tüketilen%20Kahve-280%2B-orange?style=for-the-badge&logo=coffeescript&logoColor=white)
 
 

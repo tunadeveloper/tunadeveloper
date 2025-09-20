@@ -3,6 +3,10 @@
 
 <br>
 
+![Toplam Proje](https://img.shields.io/badge/Alanımda%20Toplam%20Proje-18%2B-purple?style=for-the-badge&logo=github&logoColor=white)
+![Tüketilen Kahve](https://img.shields.io/badge/Tüketilen%20Kahve-280%2B-orange?style=for-the-badge&logo=coffeescript&logoColor=white)
+
+
 Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için hem **backend** hem de **frontend** tarafında birçok proje geliştirdim. **SOLID** prensiplerine uygun, **temiz** ve **güvenli** kod yazmaya odaklanıyorum. Özellikle .NET Core ekosistemi sayesinde farklı sektörlerde kullanılabilecek kurumsal uygulamalar geliştirdim. Kendimi sürekli geliştirmeye, yeni teknolojileri öğrenip projelerime entegre etmeye ve deneyimlerimi daha ileriye taşımaya önem veriyorum.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahancengiz)  

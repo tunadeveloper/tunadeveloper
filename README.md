@@ -21,7 +21,7 @@ Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için hem *
 
 <br>
 
-[![Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,sqlserver,redis,postgres)](https://www.linkedin.com/in/tunahancengiz/)
+[![Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,sqlserver,redis,postgres,supabase)](https://www.linkedin.com/in/tunahancengiz/)
 
 <br>
 

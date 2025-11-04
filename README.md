@@ -17,7 +17,7 @@ Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için hem *
 
 <br>
 
-[![Tech](https://go-skill-icons.vercel.app/api/icons?i=azure,docker,rabbitmq,elasticsearch,kubernetes,postman)](https://www.linkedin.com/in/tunahancengiz/)
+[![Tech](https://go-skill-icons.vercel.app/api/icons?i=azure,aws,docker,rabbitmq,elasticsearch,kubernetes,postman)](https://www.linkedin.com/in/tunahancengiz/)
 
 <br>
 

@@ -36,7 +36,7 @@ Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için hem *
 <table>
   <tr>
     <td align="left">🎨 <b>Frontend:</b></td>
-    <td align="left">HTML · CSS · Bootstrap · JavaScript · React · Angular</td>
+    <td align="left">HTML · CSS · Bootstrap · JavaScript · React(Eğitim Süreci) · Angular(Eğitim Süreci)</td>
   </tr>
   <tr>
     <td align="left">💻 <b>Backend:</b></td>
@@ -46,7 +46,7 @@ Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için hem *
   </tr>
   <tr>
     <td align="left">🗄️ <b>Veritabanları:</b></td>
-    <td align="left">MSSQL · PostgreSQL · MongoDB · Redis</td>
+    <td align="left">MSSQL · PostgreSQL · MongoDB · Redis(Eğitim Süreci)</td>
   </tr>
   <tr>
     <td align="left">🏗️ <b>Mimari & Yaklaşımlar:</b></td>
@@ -58,7 +58,7 @@ Full Stack **.NET Core Developer** pozisyonunda kendimi geliştirmek için hem *
   </tr>
   <tr>
     <td align="left">🛠️ <b>Araçlar & Teknolojiler:</b></td>
-    <td align="left">Docker · Postman · Swagger · RapidAPI · DevExpress · Windows Forms · Visual Studio · VS Code</td>
+    <td align="left">Docker(Eğitim Süreci) · Postman · Swagger · RapidAPI · DevExpress · Windows Forms · Visual Studio · VS Code</td>
   </tr>
 </table>
 
